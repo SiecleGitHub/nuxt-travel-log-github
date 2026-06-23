@@ -4,7 +4,7 @@
       Hello world!
     </h1>
     <button class="btn btn-primary">
-      DaisyUI works
+      View Map <Icon name="tabler:map" />
     </button>
   </div>
 </template>
