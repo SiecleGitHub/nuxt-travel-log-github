@@ -19,6 +19,17 @@ Nitro
 
 That combination is powerful, but the initial setup phase is unfortunately rough these days.
 
+## Next achievements 🚀
+
+pnpm strict mode
+Vercel CI
+ESLint flat config
+Husky + lint-staged
+Tailwind v4 + DaisyUI
+Nuxt TypeScript
+Node typings
+alias/path issues
+
 ## Setup
 
 Make sure to install dependencies:
